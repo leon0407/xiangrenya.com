@@ -1,0 +1,14 @@
+hr{margin:20px auto;}
+#wpcontent{padding:0;}
+.wrap{position: relative;font-family:'microsoft yahei';width: 450px;margin: 20px auto;}
+.wrap > h2{margin-bottom:30px;}
+.bs-docs-header{position:relative;padding:30px 15px;background-color:#6f5499;background-image:-webkit-gradient(linear,left top,left bottom,from(#6dba8c),to(#f95b5b));background-image:-webkit-linear-gradient(top,#6dba8c 0,#f95b5b 100%);background-image:-o-linear-gradient(top,#6dba8c 0,##f95b5b 100%);background-image:linear-gradient(to bottom,#6dba8c 0,#f95b5b 100%);background-repeat:repeat-x;color:#fff;text-align:center;text-shadow:0 1px 0 rgba(0,0,0,.1);font-family:'microsoft yahei';filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#6DBA8C',endColorstr='#F95B5B',GradientType=0);}
+.bs-docs-header img{width:100px;height:100px;border-radius:100%;}
+.bs-docs-header h2{color:#fff;}
+.choice{padding:10px 0;overflow:hidden;}
+.choice .span1{float:left;}
+.choice .span2{float:left;margin-top:10px;}
+.choice input[type=text],.choice textarea{width:300px;margin-left:70px;padding:8px 4px;}
+.choice_radio{margin-left:150px;}
+.submit{margin-top:20px;margin-right:10px;padding:0;float:left;}
+.submit input,.submit input:hover,.submit input:active{padding:6px 10px;border:none;border-radius:0;background:#299982;color:#fff;text-shadow:none;}
